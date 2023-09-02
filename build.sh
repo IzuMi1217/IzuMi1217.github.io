@@ -11,5 +11,3 @@ git add -A
 git commit -m 'deploy'
 
 git push -f git@github.com:IzuMi1217/IzuMi1217.github.io.git
-
-cd -
