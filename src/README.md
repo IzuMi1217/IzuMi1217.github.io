@@ -3,10 +3,9 @@ home: true
 layout: BlogHome
 icon: home
 title: Blog Home
-heroImage: /logo.svg
-heroText: The name of your blog
-tagline: You can put your slogan here
-heroFullScreen: true
+heroText: Quanhao Chen's Blog
+tagline: Seeds of stories brought by the wind, and cultivated by time.
+heroFullScreen: false
 projects:
   - icon: project
     name: project name
@@ -38,11 +37,6 @@ projects:
     desc: Detailed description of this custom item
     link: https://link.to.your.friend
 
-footer: customize your footer text
+footer: Seeds of stories brought by the wind, and cultivated by time.
 ---
 
-This is a blog home page demo.
-
-To use this layout, you should set both `layout: BlogHome` and `home: true` in the page front matter.
-
-For related configuration docs, please see [blog homepage](https://theme-hope.vuejs.press/guide/blog/home/).

@@ -8,7 +8,6 @@ pnpm run docs:build
 
 cd src/.vuepress/dist
 
-git init
 git add -A
 git commit -m 'deploy'
 
